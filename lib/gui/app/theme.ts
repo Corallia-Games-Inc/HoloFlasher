@@ -19,15 +19,15 @@ import { Theme } from 'rendition';
 
 export const colors = {
 	dark: {
-		foreground: '#fff',
-		background: '#4d5057',
+		foreground: '#666',
+		background: '#fff',
 		soft: {
 			foreground: '#ddd',
-			background: '#64686a',
+			background: '#d5d5d5',
 		},
 		disabled: {
 			foreground: '#787c7f',
-			background: '#3a3c41',
+			background: '#d5d5d5',
 		},
 	},
 	light: {
